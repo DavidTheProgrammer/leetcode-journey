@@ -1,2 +1,3 @@
-# leetcode-journey
-My leetcode journey
+# Leetcode Journey
+
+My Leetcode journey.
